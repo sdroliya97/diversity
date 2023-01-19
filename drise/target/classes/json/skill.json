@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Shubham Droliya",
+    "department": "Engineer",
+    "primarySkill": "Java",
+    "gender": "MALE",
+    "skills": [
+      "java",
+      "spring",
+      "scala"
+    ]
+  },
+  {
+    "name": "Gagandeep Gupta",
+    "department": "Engineer",
+    "primarySkill": "Java",
+    "gender": "MALE",
+    "skills": [
+      "java",
+      "spring",
+      "angular"
+    ]
+  },
+  {
+    "name": "Bhasker Yadav",
+    "department": "Operations",
+    "primarySkill": "Publicity",
+    "gender": "MALE",
+    "skills": []
+  },
+  {
+    "name": "Priya",
+    "department": "HR",
+    "primarySkill": "Policy",
+    "gender": "FEMALE",
+    "skills": []
+  },
+  {
+    "name": "Ravina",
+    "department": "Engineer",
+    "primarySkill": "Python",
+    "gender": "FEMALE",
+    "skills": [
+      "java",
+      "spring",
+      "python",
+      "react"
+    ]
+  },
+  {
+    "name": "Piyush Gupta",
+    "department": "Service",
+    "primarySkill": "VDI",
+    "gender": "MALE",
+    "skills": []
+  },
+  {
+    "name": "Arpita Sethi",
+    "department": "Engineer",
+    "primarySkill": "Python",
+    "gender": "FEMALE",
+    "skills": [
+      "python",
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "name": "Priyam",
+    "department": "HR",
+    "gender": "MALE",
+    "primarySkill": "Talent",
+    "skills": []
+  },
+  {
+    "name": "Rizwan",
+    "department": "Engineer",
+    "gender": "MALE",
+    "primarySkill": "Java",
+    "skills": [
+      "java",
+      "spring",
+      "scala"
+    ]
+  },
+  {
+    "name": "Ram",
+    "department": "Engineer",
+    "gender": "MALE",
+    "primarySkill": "Java",
+    "skills": [
+      "java",
+      "spring",
+      "angular"
+    ]
+  },
+  {
+    "name": "Faraz",
+    "department": "Operations",
+    "gender": "MALE",
+    "primarySkill": "Event Management",
+    "skills": []
+  },
+  {
+    "name": "Raghini",
+    "department": "HR",
+    "primarySkill": "Payroll",
+    "gender": "FEMALE",
+    "skills": []
+  },
+  {
+    "name": "Kajal Thakaar",
+    "department": "Engineer",
+    "gender": "FEMALE",
+    "primarySkill": "Java",
+    "skills": [
+      "java",
+      "spring",
+      "python",
+      "react"
+    ]
+  },
+  {
+    "name": "Aaqib",
+    "department": "Service",
+    "gender": "MALE",
+    "primarySkill": "MAC",
+    "skills": []
+  },
+  {
+    "name": "Shuvi",
+    "department": "Engineer",
+    "gender": "FEMALE",
+    "primarySkill": "Python",
+    "skills": [
+      "python",
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "name": "Ravi",
+    "department": "HR",
+    "gender": "MALE",
+    "primarySkill": "Finance",
+    "skills": []
+  }
+]

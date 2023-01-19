@@ -1,0 +1,58 @@
+{
+  "name": "Gagan",
+  "team": "AWT-MUMBAI",
+  "region": "APAC",
+  "isManager": false,
+  "identifier": "Team",
+  "organization": [
+    {
+      "name": "Shubham",
+      "age": 23,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 1,
+      "joinDate": "2021-03-01"
+    },
+    {
+      "name": "Sohini",
+      "age": 23,
+      "gender": "FEMALE",
+      "jobTitle": "Analyst",
+      "experience": 1,
+      "joinDate": "2021-03-01"
+    },
+    {
+      "name": "Varun",
+      "age": 25,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 2,
+      "joinDate": "2011-03-01"
+    },
+    {
+      "name": "Priti",
+      "age": 30,
+      "gender": "FEMALE",
+      "jobTitle": "Associate",
+      "experience": 7,
+      "leaveDate": "2021-03-02"
+    },
+    {
+      "name": "Sia",
+      "age": 23,
+      "gender": "FEMALE",
+      "jobTitle": "Director",
+      "experience": 13,
+      "joinDate": "2021-03-01"
+    },
+    {
+      "name": "Ivan Rakitic",
+      "age": 23,
+      "gender": "FEMALE",
+      "jobTitle": "Managing Director",
+      "experience": 23,
+      "joinDate": "2010-03-01"
+
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Gagan",
+  "team": "AWT-MUMBAI",
+  "region": "APAC",
+  "identifier": "Team",
+  "organisation": "Aladdin Wealth Enterprise",
+  "currentRole": "Technology",
+  "organization": [
+    {
+      "name": "Shubham",
+      "age": 23,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 1,
+      "joinDate": "2021-03-01",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "Gagan",
+      "age": 32,
+      "gender": "MALE",
+      "jobTitle": "Director",
+      "experience": 16,
+      "joinDate": "2009-03-01",
+      "promotedRecently": true,
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "Simran",
+      "age": 25,
+      "gender": "FEMALE",
+      "jobTitle": "Vice President",
+      "experience": 1,
+      "joinDate": "2013-03-01",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "Rani",
+      "age": 27,
+      "gender": "FEMALE",
+      "jobTitle": "Associate",
+      "experience": 5,
+      "joinDate": "2021-03-01",
+      "promotedRecently": true,
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "raj",
+      "age": 23,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 1,
+      "joinDate": "2021-03-01",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "van",
+      "age": 25,
+      "gender": "FEMALE",
+      "jobTitle": "Analyst",
+      "experience": 2,
+      "joinDate": "2011-03-01",
+      "promotedRecently": true,
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "akash",
+      "age": 25,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 4,
+      "joinDate": "2021-03-01",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "P",
+      "age": 30,
+      "gender": "NON_BINARY",
+      "jobTitle": "Associate",
+      "experience": 7,
+      "leaveDate": "2021-03-02",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "Sia",
+      "age": 23,
+      "gender": "FEMALE",
+      "jobTitle": "Analyst",
+      "experience": 13,
+      "joinDate": "2021-03-01",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    },
+    {
+      "name": "Ivan Rakitic",
+      "age": 23,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 2,
+      "joinDate": "2010-03-01",
+      "organisation": "Aladdin Wealth Enterprise",
+      "currentRole": "Technology"
+    }
+  ]
+}
+

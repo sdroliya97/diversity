@@ -1,0 +1,57 @@
+{
+  "name": "Gagan",
+  "team": "AWT-MUMBAI",
+  "region": "APAC",
+  "identifier": "Team",
+  "organization": [
+    {
+      "name": "Shubham Droliya",
+      "age": 23,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 1,
+      "joinDate": "2020-01-13"
+    },
+    {
+      "name": "Gagandeep Gupta",
+      "age": 32,
+      "gender": "MALE",
+      "jobTitle": "Director",
+      "experience": 16,
+      "joinDate": "2011-04-11",
+      "promotedRecently": true
+    },
+    {
+      "name": "Bhasker Yadav",
+      "age": 30,
+      "gender": "MALE",
+      "jobTitle": "Associate",
+      "experience": 9,
+      "joinDate": "2018-10-15"
+    },
+    {
+      "name": "Piyush Gupta",
+      "age": 27,
+      "gender": "MALE",
+      "jobTitle": "Analyst",
+      "experience": 5,
+      "joinDate": "2019-07-29"
+    },
+    {
+      "name": "Arpita Sethi",
+      "age": 31,
+      "gender": "FEMALE",
+      "jobTitle": "Associate",
+      "experience": 9,
+      "joinDate": "2017-09-17"
+    },
+    {
+      "name": "Kajal Thakaar",
+      "age": 29,
+      "gender": "FEMALE",
+      "jobTitle": "Associate",
+      "experience": 7,
+      "joinDate": "2019-05-13"
+    }
+  ]
+}
